@@ -195,3 +195,12 @@ h4 {
     height: 40px;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: #1F2937;
+    height: 75px;
+    align-items: center;
+}
+
